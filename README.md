@@ -29,3 +29,18 @@ $$1.18\sim 9.36\%$$ **mAP in 3D**). Codes have been released at https://github.c
 The OBMO module embedded in PatchNet is at [https://github.com/mrsempress/OBMO_GUPNet](https://github.com/mrsempress/OBMO_patchnet/).
 
 The OBMO module embedded in GUPNet is at [https://github.com/mrsempress/OBMO_GUPNet](https://github.com/mrsempress/OBMO_GUPNet/).
+
+## Citation
+If you find this project helpful for your research, please consider citing the report and giving a star.
+```
+@ARTICLE{10325411,
+  author={Huang, Chenxi and He, Tong and Ren, Haidong and Wang, Wenxiao and Lin, Binbin and Cai, Deng},
+  journal={IEEE Transactions on Image Processing}, 
+  title={OBMO: One Bounding Box Multiple Objects for Monocular 3D Object Detection}, 
+  year={2023},
+  volume={32},
+  number={},
+  pages={6570-6581},
+  keywords={Three-dimensional displays;Object detection;Visualization;Training;Feature extraction;Detectors;Convolution;3D object detection;monocular images;depth ambiguity;camera project principles},
+  doi={10.1109/TIP.2023.3333225}}
+```
